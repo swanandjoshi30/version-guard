@@ -1,0 +1,3 @@
+admin = swanand
+pass = swan123
+databse = "what_changed"
